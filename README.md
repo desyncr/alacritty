@@ -1,0 +1,3 @@
+# Alacritty
+
+Basic Alacritty configs.

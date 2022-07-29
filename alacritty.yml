@@ -1,0 +1,12 @@
+window:
+  padding:
+    x: 5
+    y: 5
+  decorations: none
+  opacity: 1.0
+colors:
+  primary:
+    background: '#1e222a'
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
